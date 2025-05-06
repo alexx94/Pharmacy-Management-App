@@ -1,0 +1,2 @@
+1234 parola1 Andrei Mirel false
+1111 parola2 Mihaita Oprea false
